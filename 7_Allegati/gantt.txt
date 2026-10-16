@@ -1,0 +1,50 @@
+ANALISI
+    Analisi dei requisiti della rete
+    Definizione delle esigenze del cliente
+    Raccolta delle informazioni necessarie
+
+PROGETTAZIONE DELLA RETE
+    Progettazione della topologia di rete
+    Definizione degli indirizzi IP
+    Progettazione delle VLAN
+    Definizione dei dispositivi di rete
+    Definizione della configurazione dei server
+
+REALIZZAZIONE DELLA RETE
+    Creazione della rete aziendale
+    Creazione delle VLAN
+    Configurazione degli Switch
+    Configurazione dei Router
+
+CONFIGURAZIONE DEI SERVIZI
+    Configurazione degli indirizzi IP statici
+    Configurazione DHCP
+    Configurazione dei servizi di rete
+    Configurazione dei server
+
+SICUREZZA
+    Configurazione della sicurezza della rete
+    Controllo degli accessi alla rete
+    Verifica della sicurezza
+
+TEST DELLA RETE
+    Test delle VLAN
+    Test del routing
+    Test del DHCP
+    Test degli indirizzi IP statici
+    Test della comunicazione tra le reti
+    Verifica dell'accesso ai servizi
+
+MONITORAGGIO E GESTIONE
+    Monitoraggio dei log
+    Simulazione di un malfunzionamento della rete
+    Rilevamento del malfunzionamento
+    Analisi dei log
+    Segnalazione del malfunzionamento
+
+DOCUMENTAZIONE
+    Documentazione della configurazione
+    Documentazione degli indirizzi IP
+    Documentazione delle VLAN
+    Documentazione dei test
+    Verifica finale della documentazione
